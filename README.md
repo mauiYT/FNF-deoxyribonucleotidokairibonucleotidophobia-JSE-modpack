@@ -1,2 +1,2 @@
 # FNF-deoxyribonucleotidokairibonucleotidophobia-JSE-modpack
-FNF chart from yt
+put this in your JSE mods folder after unzipping
